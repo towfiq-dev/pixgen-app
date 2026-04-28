@@ -1,9 +1,10 @@
+import TopGenaration from '@/components/homepage/topGenaration/TopGenaration';
 import React from 'react';
 
 const HomePage = () => {
   return (
     <div>
-      HomePage components
+      <TopGenaration/>
     </div>
   );
 };
